@@ -1,0 +1,16 @@
+{
+"name": "mvp999",
+"theme": "mvp999",
+"version": "10.4.8",
+"description": "mvp999 สมัครเว็บไซต์บาคาร่าเว็บตรง ระบบออโต้ รับเงินเครดิตฟรี",
+"keywords": [
+"mvp999",
+"mvp999 เครดิตฟรี",
+"mvp999 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mvp999",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
